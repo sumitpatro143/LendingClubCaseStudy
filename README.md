@@ -1,5 +1,6 @@
 # Lending Club Case Study
-> - Through EDA, we aim to display patterns and insights within the dataset to distinguish characteristics associated with loan defaulters. By analyzing the data completely, we seek to disclose key factors influencing borrower behavior, providing the lending company with actionable information to make informed decisions in risk assessment.
+
+- Through EDA, we aim to display patterns and insights within the dataset to distinguish characteristics associated with loan defaulters. By analyzing the data completely, we seek to disclose key factors influencing borrower behavior, providing the lending company with actionable information to make informed decisions in risk assessment.
 
 - This investigation involves through into various features such as applicant information, financial indicators, and loan terms to identify correlations and trends that can be indicative of potential defaults. The ultimate goal is to empower the lending company with predictive knowledge, enabling them to implement targeted strategies and mitigate financial losses by avoiding loans to high-risk individuals.
 
