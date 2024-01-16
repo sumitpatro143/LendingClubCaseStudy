@@ -1,14 +1,31 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+> - Through EDA, we aim to display patterns and insights within the dataset to distinguish characteristics associated with loan defaulters. By analyzing the data completely, we seek to disclose key factors influencing borrower behavior, providing the lending company with actionable information to make informed decisions in risk assessment.
+
+- This investigation involves through into various features such as applicant information, financial indicators, and loan terms to identify correlations and trends that can be indicative of potential defaults. The ultimate goal is to empower the lending company with predictive knowledge, enabling them to implement targeted strategies and mitigate financial losses by avoiding loans to high-risk individuals.
+
+- By leveraging EDA techniques, we intend to uncover nice patterns, relationships, and outliers within the dataset, shedding light on the factors that significantly contribute to loan default. This proactive approach allows the lending company to refine its credit approval process, strengthen risk management protocols, and enhance overall decision-making when extending loans.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+1. Importing Required Libraries & Loading Data
 
-<!-- You can include any other section that is pertinent to your problem -->
+2. Data Understanding
+
+3. Data Cleaning 
+
+4. Data Formatting
+
+5. Univariate Analysis
+
+6. Unordered Categorical Variable Analysis
+
+7. Ordered Categorical Variable Analysis
+
+8. Derived Variable Analysis
+
+9. Bivariate Analysis
+
+10. Correlation Analysis
 
 ## General Information
 - Provide general information about your project here.
@@ -28,9 +45,11 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy 
+- Pandas
+- matplotlib.pyplot
+- seaborn
+- eda
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
